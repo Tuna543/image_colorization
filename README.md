@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=NAHIN-JZS&color=blue&style=flat)
 # image_colorization
 The goal of this repository is to colorize grayscale pictures. Here, different approaches are primarily being tested. This is my undergraduate thesis work.
 
